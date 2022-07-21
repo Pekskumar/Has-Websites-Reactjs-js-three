@@ -1,0 +1,43 @@
+const Pricing_component_api = [
+	{
+		id: 0,
+		pricing_heading: "BRONZE Plan",
+		price:"14999",
+		pricing_year: "per 2 year",
+		pricing_li_1: " Persnalisation",
+		pricing_li_2: "  Unlimited Amends",
+		pricing_li_3: "  Responsive website",
+		pricing_li_4: "Beautiful Single Page",
+	},
+	{
+		id: 1,
+		pricing_heading: "SHOWPIECE Site",
+		price:"4999",
+		pricing_year: "per 1 year",
+		pricing_li_1: " Persnalisation",
+		pricing_li_2: "  Unlimited Amends",
+		pricing_li_3: "  Responsive website",
+		pricing_li_4: "Beautiful Single Page",
+	},
+	{
+		id: 2,
+		pricing_heading: "SILVER Plan",
+		price:"16999",
+		pricing_year: "per 2 year",
+		pricing_li_1: " Persnalisation",
+		pricing_li_2: "  Unlimited Amends",
+		pricing_li_3: "  Responsive website",
+		pricing_li_4: "5 Pages",
+	},
+	{
+		id: 3,
+		pricing_heading: "GOLD Plan",
+		price:"19999",
+		pricing_year: "per 2 year",
+		pricing_li_1: " Persnalisation",
+		pricing_li_2: "  Unlimited Amends",
+		pricing_li_3: "  Responsive website",
+		pricing_li_4: "Unlimited Pages",
+	},
+];
+export default Pricing_component_api;

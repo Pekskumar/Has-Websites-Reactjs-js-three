@@ -1,0 +1,67 @@
+
+/*---------------------------------------- Responsive ----------------------------------------*/
+@media only screen and (max-width: 1499px){
+
+    
+}
+@media only screen and (max-width: 1199px){
+	
+
+    /*.navbar a{color: #000;line-height: 50px;}*/
+	.main-menu li{margin-right: 0;}
+	/*.menu_sub:after{transform: rotate(0deg);}*/
+	.main-menu .submenu, .main-menu .submenu {
+    position: relative;
+    visibility: visible;
+    opacity: 1;
+    width: 100%;
+    margin: 0;
+}
+	.main-menu .submenu li .menu_sub,.main-menu .submenu{display: none;}
+	.main-menu .submenu .submenu li.menu-item-has-children .menu_sub,.main-menu .submenu li.menu-item-has-children .menu_sub{display: block;}
+	.main-menu .submenu .submenu li .menu_sub{display: none;}
+	.main-menu .submenu li.menu-item-has-children:hover .submenu{    left: 0;
+    top: 0;
+    padding: 0;
+    width: 100%;
+    margin: 0;}
+    .main-menu li.menu-item-has-children:hover .submenu{
+    visibility: visible;
+    opacity: 1;
+    background-color: transparent;
+    padding: 0;
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+}
+    #hamburger-10 {    display: block;}
+
+
+  
+}
+@media only screen and (max-width: 991px){
+	
+    
+
+
+
+}
+@media only screen and (max-width: 768px){
+  
+}
+@media only screen and (max-width: 639px){
+  
+}
+@media only screen and (max-width: 480px){
+	.center-menu .fro,.center-menu .qui,.center-menu .acc,.center-menu .get {    width: 100%;    margin-bottom: 20px;}
+  
+}
+@media only screen and (max-width: 414px){
+  
+}
+@media only screen and (max-width: 375px){
+  
+}    
+@media only screen and (max-width: 320px){
+  
+}    
